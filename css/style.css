@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Inter:wght@700&family=Jua&display=swap');
 
 .background-image {
-    background-image: url(vscode.png);
+    background-image: url(css/vscode.png);
     position: absolute;
     left: 0px;
     top: 0px;
