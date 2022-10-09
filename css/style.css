@@ -156,7 +156,7 @@
 
 .ipad {
     position: absolute;
-    background: url(ipad.png);
+    background: url('https://cdn.discordapp.com/attachments/899140241384960050/1028636273470091314/ipad.png');
     background-size: 309.1px 626.34px;
     background-repeat:no-repeat;
     width: 309.1px;
@@ -266,7 +266,7 @@
 
 .profile {
     position: absolute;
-    background: url(image.png);
+    background: url('https://cdn.discordapp.com/attachments/899140241384960050/1028636273793040444/image.png');
     background-size: 85px 85px;
     width: 85px;
     height: 85px;
