@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Inter:wght@700&family=Jua&display=swap');
+
+.background-image {
+    background-image: url(vscode.png);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 1080px;
+    filter: blur(4px);
+}
+
+.main-text {
+    position: absolute;
+    left: 700px;
+    top: 300px;
+    width: 327px;
+    height: 86.54px;
+    color: white;
+    font-family: Jua;
+    font-size: 100px;
+    font-weight: 400;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.sub-text {
+    position: absolute;
+    left: 705px;
+    top: 445px;
+    width: 0px;
+    height: 40.54px;
+    color: #8f8f8f;
+    font-family: Jua;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.box-js {
+    position: absolute;
+    left: 705px;
+    top: 535px;
+    width: 90px;
+    height: 48px;
+    border-radius: 19px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.yellow {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background: yellow;
+    background-blend-mode: normal;
+}
+.JS {
+    position: absolute;
+    left: 27px;
+    top: -37px;
+    width: 37px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.box-ts {
+    position: absolute;
+    left: 805px;
+    top: 535px;
+    width: 90px;
+    height: 48px;
+    border-radius: 19px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.blue {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background: blue;
+    background-blend-mode: normal;
+}
+.TS {
+    position: absolute;
+    left: 27px;
+    top: -37px;
+    width: 37px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.discord {
+    position: absolute;
+    left: 905px;
+    top: 535px;
+    width: 160px;
+    height: 48px;
+    border-radius: 19px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.blue-2 {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background: blue;
+    background-blend-mode: normal;
+}
+.nick {
+    position: absolute;
+    left: 14px;
+    top: -33px;
+    width: 100px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 28px;
+    font-weight: 0;
+    text-align: center;
+}
+.nick-2 {
+    position: absolute;
+    left: 71px;
+    top: -8px;
+    width: 100px;
+    height: 38px;
+    color: rgb(238, 238, 238);
+    font-family: Jua;
+    font-size: 15px;
+    font-weight: 0;
+    text-align: center;
+}
+
+
+.ipad {
+    position: absolute;
+    background: url(ipad.png);
+    background-size: 309.1px 626.34px;
+    background-repeat:no-repeat;
+    width: 309.1px;
+    height: 626.34px;
+    left: 1150px;
+    top: 250px;
+}
+
+.dynamic-title {
+    position: absolute;
+    left: 1160px;
+    top: 195px;
+    width: 285px;
+    height: 40px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.tcs-ipad {
+    position: absolute;
+    left: 30px;
+    top: -1px;
+    width: 250px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 28px;
+    font-weight: 0;
+    text-align: center;
+}
+.purple {
+    position: absolute;
+    left: 12px;
+    top: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: purple;
+    background-blend-mode: normal;
+}
+
+.box-y {
+    position: absolute;
+    left: 705px;
+    top: 595px;
+    width: 185px;
+    height: 48px;
+    border-radius: 19px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.red {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background: red;
+    background-blend-mode: normal;
+}
+.youtube {
+    position: absolute;
+    left: 27px;
+    top: -9px;
+    width: 37px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.box-d {
+    position: absolute;
+    left: 905px;
+    top: 595px;
+    width: 160px;
+    height: 48px;
+    border-radius: 19px;
+    background: rgba(255, 255, 255, 0.411);
+    background-blend-mode: normal;
+}
+.blue-3 {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background: lightblue;
+    background-blend-mode: normal;
+}
+.discord-link {
+    position: absolute;
+    left: 32px;
+    top: -9px;
+    width: 37px;
+    height: 38px;
+    color: rgb(255, 255, 255);
+    font-family: Jua;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.profile {
+    position: absolute;
+    background: url(image.png);
+    background-size: 85px 85px;
+    width: 85px;
+    height: 85px;
+    left: 975px;
+    top: 395px;
+    border-radius: 30px;
+}
