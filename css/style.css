@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Inter:wght@700&family=Jua&display=swap');
 
 .background-image {
-    background-image: url('https://cdn.discordapp.com/attachments/899140241384960050/1028636273470091314/ipad.png');
+    background-image: url(vscode.png);
     position: absolute;
     left: 0px;
     top: 0px;
